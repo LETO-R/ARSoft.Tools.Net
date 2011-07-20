@@ -6,10 +6,9 @@ h2. What is different?
 
 * Minor changes to make ARSoft.Tools.Net compilable using MonoDevelop
 * DnsSocksClient class
- * Possible to perform TCP-DNS requests through a SOCKS 4 proxy
+	* Possible to perform TCP-DNS requests through a SOCKS 4 proxy
 
 h2. Extra Information
 
-* For credits and origins, see AUTHORS.
 * For license instructions, see LICENSE.
 * For the latest updates, see CHANGELOG.
