@@ -1,0 +1,12 @@
+2011-07-21  LETO-R  <M8Rovpdyd@gmail.com>
+-----------------------------------------
+	* Added Fallbacks.cs
+		- Contains default fallback values
+		- Currently only used in DnsClient / DnsSocksClient
+		
+2011-07-20  LETO-R  <M8Rovpdyd@gmail.com>
+-----------------------------------------
+	* Fixed compilation under MonoDevelop (Build using MonoDevelop 2.4.2.1 @ Windows XP)
+	* Added DnsSocksClient
+		- Use this to relay TCP-DNS requests through a SOCKS proxy server
+		- Only supports SOCKS4 at the moment
