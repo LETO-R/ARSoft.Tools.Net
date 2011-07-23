@@ -26,7 +26,7 @@ namespace ARSoft.Tools.Net.Dns
 		internal int StartPosition { get; set; }
 		internal ushort RecordDataLength { get; set; }
 
-		public int TimeToLive { get; internal set; }
+		public int TimeToLive { get; set; }
 
 		protected DnsRecordBase() {}
 
